@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-startbootstrap-agency",
-  "description": "gatsby version of startbootstrap-agency with i18n support",
+  "name": "BDRIS",
+  "description": "A group to help students in their higher studies",
   "version": "0.1.0",
-  "author": "thundermiracle",
+  "author": "Nazmul Alam",
   "bugs": {
     "url": "https://github.com/thundermiracle/gatsby-startbootstrap-agency/issues"
   },
